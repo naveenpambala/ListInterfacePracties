@@ -7,7 +7,7 @@ public class MapPrac {
 
 	public static void main(String[] args) {
 
-					//HashMap (hash mechanism
+					//HashMap (hash mechanism)
 		//creating a Map
 		
 		Map<Integer,String> m= new TreeMap<>();
